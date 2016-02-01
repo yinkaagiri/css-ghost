@@ -4,7 +4,7 @@ During his life, Pierre was a web designer. As punishment for the heinous sin of
 
 That's fine -- in life, he spent all his time on the computer anyway. But the page is missing all the CSS necessary for him to do this haunting! Your job is to put the CSS back in order, and then monitor Pierre to make sure he's doing his job.
 
-Copy and paste the CSS in `starter.txt` into the appropriate places in `index.html`. When finished, Pierre will:
+Copy and paste the CSS in `starter.txt` into the appropriate places in `style.css`. When finished, Pierre will:
 
 - Continuously bob slightly up and down and wobble from side-to-side
 - Be invisible, except for when the mouse is on top of him
@@ -16,8 +16,10 @@ Copy and paste the CSS in `starter.txt` into the appropriate places in `index.ht
   - Vanish off the bottom-right corner, then...
   - Repeat
 
-You will use **all** of the CSS in `starter.txt`!
+You will use **all** of the CSS in `starter.txt`. You **should** only modify `style.css` You **should not** modify anything in `index.html`.
 
 See a completed example at the link below. Peek at the CSS only if you're totally stuck!
 
 http://ga-wdi-exercises.github.io/css-ghost/
+
+**Now get coding... if you dare!**
