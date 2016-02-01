@@ -17,3 +17,7 @@ Copy and paste the CSS in `starter.txt` into the appropriate places in `index.ht
   - Repeat
 
 You will use **all** of the CSS in `starter.txt`!
+
+See a completed example at the link below. Peek at the CSS only if you're totally stuck!
+
+http://ga-wdi-exercises.github.io/css-ghost/
